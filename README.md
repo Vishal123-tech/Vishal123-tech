@@ -81,7 +81,7 @@ My work spans **Python-based analytics**, **SQL query engineering**, and **BI re
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
 | Data Classification | IBM SkillsBuild | 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
-| Google Analytics Certification | Google Skillshop | — |
+| Google Analytics Certification | Google Skillshop | 2025 |
 
 ---
 
