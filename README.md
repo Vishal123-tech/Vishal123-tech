@@ -1,11 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Vishal+Yadav;Data+Science+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Open+to+DS+%2F+DA+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Vishal+Yadav;Data+Science+%26+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <b>EXTC Engineer → Data Scientist in the Making | Mumbai 🇮🇳</b><br/>
-  <i>Building data-driven solutions that solve real business problems</i>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vishal-yadav-339b9b1b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,15 +12,16 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🎓 Final-year **B.Tech EXTC** student at SLRTCE, Mumbai (2023–2027)
-- 💼 Actively seeking **Data Science / Data Analytics Internships**
-- 🤖 Passionate about **ML, SQL analytics, and Business Intelligence dashboards**
-- 📊 Experienced in **end-to-end analytics** — from raw data to actionable insights
-- 🌱 Currently building: **Video Game Market Analytics Dashboard** (PostgreSQL + Power BI)
-- 🎯 Long-term goal: Launch my own **AI venture**
-- 📸 Sharing my DS journey on Instagram: [@mydatasciencelife](https://www.instagram.com/mydatasciencelife/)
+B.Tech Electronics & Telecommunication Engineering student at Shree L.R. Tiwari College of Engineering, Mumbai. I specialise in building end-to-end data solutions — from raw data ingestion and exploratory analysis to machine learning models and interactive business intelligence dashboards.
+
+My work spans **Python-based analytics**, **SQL query engineering**, and **BI reporting with Power BI and Tableau**, with domain experience across fintech, retail, and healthcare datasets. I am currently working on a large-scale video game market analytics platform combining PostgreSQL, Python, and Power BI.
+
+- 📍 Mumbai, Maharashtra
+- 🎓 B.Tech EXTC — SLRTCE (2023–2027)
+- 🌱 Currently exploring: Advanced PostgreSQL, Power BI DAX, LangChain RAG pipelines
+- 🎯 Building toward an independent AI venture
 
 ---
 
@@ -63,18 +59,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Tech Stack | Highlights |
-|--------|-----------|-----------|
-| [🛒 Customer Segmentation & Value Analysis](https://github.com/Vishal123-tech/customer-segmentation-value-analysis) | Python, K-Means, SQL, Power BI | End-to-end pipeline: EDA → Clustering → Dashboard |
-| [💊 Diabetes Classification ML App](https://github.com/Vishal123-tech/Diabetes-Classification-ML) | LightGBM, Scikit-learn, Streamlit | ~90% accuracy, deployed as live web app |
-| [💳 Digital Payment Analytics (UPI)](https://github.com/Vishal123-tech/Digital-Payment-Analytics-SQL) | PostgreSQL, Window Functions | Fintech SQL analytics on UPI transaction data |
-| [♟️ Chess Games Analysis (6.25M+ rows)](https://github.com/Vishal123-tech/Chess-Games-Analysis-Using-PostgreSQL) | PostgreSQL | Large-scale SQL analysis on 6.25M chess games |
-| [🛍️ Zepto SQL Business Analysis](https://github.com/Vishal123-tech/Zepto-SQL) | PostgreSQL | Product pricing, inventory & revenue insights |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,21 +74,14 @@
 
 ## 🏆 Certifications
 
-| Certificate | Issuer | Date |
+| Certificate | Issuer | Year |
 |------------|--------|------|
-| SQL — Advanced / Intermediate / Basic | HackerRank | Apr 2026 |
-| Machine Learning for Data Science Projects | IBM SkillsBuild | Mar 2026 |
-| Artificial Intelligence Fundamentals | IBM SkillsBuild | Mar 2026 |
-| Data Classification | IBM SkillsBuild | Mar 2026 |
-| Data Analytics Job Simulation | Deloitte via Forage | Jul 2025 |
+| SQL — Advanced / Intermediate / Basic | HackerRank | 2026 |
+| Machine Learning for Data Science Projects | IBM SkillsBuild | 2026 |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
+| Data Classification | IBM SkillsBuild | 2026 |
+| Data Analytics Job Simulation | Deloitte via Forage | 2025 |
 | Google Analytics Certification | Google Skillshop | — |
-
----
-
-## 💼 Virtual Experience
-
-- 🏦 **Commonwealth Bank** — Data Science Intern *(Forage, Jun 2026)*: Transaction analysis (50K+ rows), data anonymization, DB schema design
-- 📊 **Deloitte** — Data Analytics Intern *(Forage, Jul 2025)*: Tableau dashboards, KPI reporting, data cleaning
 
 ---
 
@@ -118,6 +95,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile+Views&color=58A6FF&style=flat" />
-  <br/><br/>
-  <i>⭐ If you find my projects useful, consider starring them!</i>
 </p>
