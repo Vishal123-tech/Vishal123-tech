@@ -16,7 +16,7 @@
 
 B.Tech Electronics & Telecommunication Engineering student at Shree L.R. Tiwari College of Engineering, Mumbai. I specialise in building end-to-end data solutions — from raw data ingestion and exploratory analysis to machine learning models and interactive business intelligence dashboards.
 
-My work spans **Python-based analytics**, **SQL query engineering**, and **BI reporting with Power BI and Tableau**, with domain experience across fintech, retail, and healthcare datasets. I am currently working on a large-scale video game market analytics platform combining PostgreSQL, Python, and Power BI.
+My work spans **Python-based analytics**, **SQL query engineering**, and **BI reporting with Power BI and Tableau**, with domain experience across fintech, retail, and healthcare datasets.
 
 - 📍 Mumbai, Maharashtra
 - 🎓 B.Tech EXTC — SLRTCE (2023–2027)
@@ -81,17 +81,10 @@ My work spans **Python-based analytics**, **SQL query engineering**, and **BI re
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
 | Data Classification | IBM SkillsBuild | 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
-| Google Analytics Certification | Google Skillshop | 2025 |
+| Google Analytics Certification | Google Skillshop | — |
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal123-tech&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile+Views&color=58A6FF&style=flat" />
