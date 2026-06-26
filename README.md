@@ -91,10 +91,21 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
 | Data Classification | IBM SkillsBuild | 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
-| Google Analytics Certification | Google Skillshop | 2026 |
+| Google Analytics Certification | Google Skillshop | — |
 
 ---
 
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal123-tech&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/Vishal123-tech" alt="Vishal's Yearly Contribution Chart" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile+Views&color=58A6FF&style=flat" />
