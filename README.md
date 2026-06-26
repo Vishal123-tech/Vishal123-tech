@@ -91,7 +91,7 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
 | Data Classification | IBM SkillsBuild | 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
-| Google Analytics Certification | Google Skillshop | — |
+| Google Analytics Certification | Google Skillshop | 2026 |
 
 ---
 
