@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Vishal+Yadav;Data+Science+%26+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Vishal+Yadav;Data+Analyst+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+ML;GenAI+%7C+Agentic+AI+%7C+LLM+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,16 +12,26 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-B.Tech Electronics & Telecommunication Engineering student at Shree L.R. Tiwari College of Engineering, Mumbai. I specialise in building end-to-end data solutions — from raw data ingestion and exploratory analysis to machine learning models and interactive business intelligence dashboards.
+I'm a results-driven **Data Analyst & Aspiring Data Scientist** with hands-on experience building end-to-end data solutions using **Python**, **SQL**, **Power BI**, and **Machine Learning** — from raw data ingestion and exploratory analysis to production-ready BI dashboards.
 
-My work spans **Python-based analytics**, **SQL query engineering**, and **BI reporting with Power BI and Tableau**, with domain experience across fintech, retail, and healthcare datasets.
+With a strong foundation in **EDA**, **Feature Engineering**, and **ML classification pipelines**, I design and deliver analytical systems that are business-ready and insight-driven. My background in **Electronics & Telecommunication Engineering** gives me a full-stack perspective — from signal-level thinking to high-level data automation. Most recently, I built an **AI-driven layoff risk analysis system** on 20,000 employee records achieving **92.4% cross-validated accuracy**, with a full **PostgreSQL + Power BI** reporting layer.
 
-- 📍 Mumbai, Maharashtra
-- 🎓 B.Tech EXTC — SLRTCE (2023–2027)
-- 🌱 Currently exploring: Advanced PostgreSQL, Power BI DAX, LangChain RAG pipelines
-- 🎯 Building toward an independent AI venture
+---
+
+## 🔍 Actively Exploring
+
+- **Machine Learning** — Advanced Algorithms, Ensemble Methods & Model Optimization
+- **Deep Learning** & Neural Networks (CNNs, RNNs, Transformers)
+- **NLP** & Text Analytics Pipelines
+- Generative AI with **LangChain** & **LangGraph**
+- **Agentic AI** & Multi-Agent Systems
+- **LLM Guardrails** & AI Safety Frameworks
+- **LLM Evaluation** (Evals) & Benchmarking
+- **LLM Caching** & **LLM Gateways**
+- **RAG Pipelines** & Vector Databases
+- Building toward an independent **AI venture**
 
 ---
 
@@ -81,7 +91,7 @@ My work spans **Python-based analytics**, **SQL query engineering**, and **BI re
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
 | Data Classification | IBM SkillsBuild | 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
-| Google Analytics Certification | Google Skillshop | — |
+| Google Analytics Certification | Google Skillshop | 2026 |
 
 ---
 
