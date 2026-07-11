@@ -22,15 +22,14 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 
 ## 🔍 Actively Exploring
 
-- **Machine Learning** — Advanced Algorithms, Ensemble Methods & Model Optimization
+- **Data Analytics & BI** — Power BI, Advanced Excel & SQL Dashboarding
+- **Data Visualization** — Matplotlib, Seaborn & Storytelling with Data
+- **Machine Learning** — Ensemble Methods (XGBoost, LightGBM) & Model Optimization
 - **Deep Learning** & Neural Networks (CNNs, RNNs, Transformers)
-- **NLP** & Text Analytics Pipelines
 - Generative AI with **LangChain** & **LangGraph**
 - **Agentic AI** & Multi-Agent Systems
-- **LLM Guardrails** & AI Safety Frameworks
 - **LLM Evaluation** (Evals) & Benchmarking
-- **LLM Caching** & **LLM Gateways**
-- **RAG Pipelines** & Vector Databases
+- **RAG Pipelines** & **Vector Databases**
 - Building toward an independent **AI venture**
 
 ---
