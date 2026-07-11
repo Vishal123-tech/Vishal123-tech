@@ -30,7 +30,6 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 - **Agentic AI** & Multi-Agent Systems
 - **LLM Evaluation** (Evals) & Benchmarking
 - **RAG Pipelines** & **Vector Databases**
-- Building toward an independent **AI venture**
 
 ---
 
