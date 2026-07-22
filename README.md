@@ -3,22 +3,18 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vishal-yadav-339b9b1b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vishalyadav.analytics@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Vishal123-tech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/vishalinsightx"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://portfolio-one-sigma-39.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vishal-yadav-339b9b1b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vishalyadav.analytics@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Vishal123-tech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/vishalinsightx"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://portfolio-one-sigma-39.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-
----
 
 ## 🚀 About Me
 
 I'm a results-driven **Data Analyst & Aspiring Data Scientist** with hands-on experience building end-to-end data solutions using **Python**, **SQL**, **Power BI**, and **Machine Learning** — from raw data ingestion and exploratory analysis to production-ready BI dashboards.
 
-With a strong foundation in **EDA**, **Feature Engineering**, and **ML classification pipelines**, I design and deliver analytical systems that are business-ready and insight-driven. My background in **Electronics & Telecommunication Engineering** gives me a full-stack perspective — from signal-level thinking to high-level data automation. Most recently, I built an **AI-driven layoff risk analysis system** on 20,000 employee records achieving **92.4% cross-validated accuracy**, with a full **PostgreSQL + Power BI** reporting layer.
-
----
+With a strong foundation in **EDA**, **Feature Engineering**, and **ML classification pipelines**, I design analytical systems that are business-ready and insight-driven. My background in **Electronics & Telecommunication Engineering** gives me a full-stack perspective — from signal-level thinking to high-level data automation. Most recently, I built an **AI-driven layoff risk analysis system** on 20,000 employee records achieving **92.4% cross-validated accuracy**, with a full **PostgreSQL + Power BI** reporting layer.
 
 ## 🔍 Actively Exploring
 
@@ -31,16 +27,12 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 - **LLM Evaluation** (Evals) & Benchmarking
 - **RAG Pipelines** & **Vector Databases**
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 
 **Libraries & ML**
 
@@ -67,20 +59,18 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal123-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal123-tech&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal123-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal123-tech&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal123-tech&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Vishal123-tech&theme=tokyonight&hide_border=true" height="160" alt="GitHub contribution streak" />
 </p>
 
----
+> If a stats card temporarily shows an API error, refresh later. These cards are generated by public services and can be rate-limited independently of your GitHub profile.
 
 ## 🏆 Certifications
 
@@ -93,8 +83,6 @@ With a strong foundation in **EDA**, **Feature Engineering**, and **ML classific
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
 | Google Analytics Certification | Google Skillshop | 2026 |
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile+Views&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
