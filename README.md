@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a results-driven **Data Analyst & Aspiring Data Scientist** with hands-on experience building end-to-end data solutions using **Python**, **SQL**, **Power BI**, and **Machine Learning** — from raw data ingestion and exploratory analysis to production-ready BI dashboards.
+I'm a results-driven  **Data Analyst & Aspiring Data Scientist** with hands-on experience building end-to-end data solutions using **Python**, **SQL**, **Power BI**, and **Machine Learning** — from raw data ingestion and exploratory analysis to production-ready BI dashboards.
 
 With a strong foundation in **EDA**, **Feature Engineering**, and **ML classification pipelines**, I design analytical systems that are business-ready and insight-driven. My background in **Electronics & Telecommunication Engineering** gives me a full-stack perspective — from signal-level thinking to high-level data automation. Most recently, I built an **AI-driven layoff risk analysis system** on 20,000 employee records achieving **92.4% cross-validated accuracy**, with a full **PostgreSQL + Power BI** reporting layer.
 
