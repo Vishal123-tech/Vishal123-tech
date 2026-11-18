@@ -37,17 +37,17 @@ Computer-vision prototype using PyTorch, TensorFlow Lite, Gradio, and Render. It
 
 **Tech:** `Python` `PyTorch` `TensorFlow Lite` `Gradio` `OpenCV` `Render`
 
-### [AI Impact on Jobs & Layoff Risk Analysis](https://github.com/Vishal123-tech/AI-Impact-on-Jobs-and-Layoff-Risk-Dataset)
+### [Banking Risk Analytics Platform](https://github.com/Vishal123-tech/Banking-Risk-Analytics-Platform-)
 
-End-to-end data science project covering exploratory analysis, PostgreSQL queries, machine-learning outputs, and a Power BI dashboard focused on business-facing insights.
+Risk analytics project focused on understanding customer risk, banking behavior, and business patterns through structured data analysis and dashboard-ready insights.
 
-**Tech:** `Python` `Pandas` `SQL` `PostgreSQL` `Power BI` `Machine Learning`
+**Tech:** `Python` `Pandas` `SQL` `PostgreSQL` `Power BI` `Analytics`
 
-### [Customer Segmentation & Value Analysis](https://github.com/Vishal123-tech/Customer-Segmentation-Value-Analysis)
+### [Olist E-commerce Data Analytics](https://github.com/Vishal123-tech/Olist-Ecommerce-Data-Analytics)
 
-Customer analytics project using segmentation and value-based analysis to turn transactional data into practical business recommendations.
+E-commerce analytics project exploring orders, customers, products, delivery performance, and revenue trends to turn marketplace data into actionable insights.
 
-**Tech:** `Python` `Pandas` `Scikit-learn` `SQL` `Visualization`
+**Tech:** `Python` `Pandas` `SQL` `Power BI` `Data Visualization`
 
 <div align="center">
 
