@@ -13,10 +13,6 @@
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Anime-inspired character" />
 
-<br />
-
-<img src="https://github-readme-utils.vercel.app/api/gif/anime" height="180" alt="Anime-inspired coding animation" />
-
 </div>
 
 ## 👋 About me
@@ -26,12 +22,6 @@ I’m Vishal, a Data Science and Machine Learning student who enjoys turning mes
 I like understanding the problem behind the data, testing ideas honestly, and explaining results clearly. My current goal is to build reliable ML systems that are useful beyond a notebook—from data preparation and evaluation to an accessible deployed application.
 
 ## 🔭 What I’m building
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:312e81,100:0f172a&height=3&section=header" width="90%" alt="decorative divider" />
-
-</div>
 
 - **Computer vision:** image classification, transfer learning, MobileNetV2, model evaluation
 - **Machine learning:** feature engineering, validation, class imbalance, model improvement
