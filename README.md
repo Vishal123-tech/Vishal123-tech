@@ -1,89 +1,100 @@
-# Vishal Yadav
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Vishal+Yadav;Data+Analyst+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+ML;GenAI+%7C+Agentic+AI+%7C+LLM+Systems" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=210&section=header&text=Vishal%20Yadav&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descSize=18&descAlignY=61" width="100%" alt="Vishal Yadav banner" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-yadav-339b9b1b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vishalyadav.analytics@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<h3>Building practical ML systems from data to deployment ⚡</h3>
+
+<p>
+  <a href="https://portfolio-one-sigma-39.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vishal-yadav-339b9b1b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vishalyadav.analytics@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.kaggle.com/vishalinsightx"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://portfolio-one-sigma-39.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-## 🚀 About Me
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Anime-inspired character" />
 
-I’m focused on Data Science, Machine Learning, and AI, combining analytical thinking with hands-on work in Python and SQL. I enjoy exploring data, building predictive models, and presenting clear insights through visualization.
-My interests span deep learning, generative AI, and intelligent agents, including RAG pipelines, LangChain, LangGraph, and LLM evaluation. I’m motivated by understanding how these technologies work and applying them to practical problems.
-I’m continuously strengthening my skills and seeking opportunities to contribute and grow in Data Science, ML, and AI.
+</div>
 
-## 🔍 Actively Exploring
+## 👋 About me
 
-- **Data Analytics & BI** — Power BI, Advanced Excel & SQL Dashboarding
-- **Data Visualization** — Matplotlib, Seaborn & Storytelling with Data
-- **Machine Learning** — Ensemble Methods (XGBoost, LightGBM) & Model Optimization
-- **Deep Learning** & Neural Networks (CNNs, RNNs, Transformers)
-- Generative AI with **LangChain** & **LangGraph**
-- **Agentic AI** & Multi-Agent Systems
-- **LLM Evaluation** (Evals) & Benchmarking
-- **RAG Pipelines** & **Vector Databases**
+I’m Vishal, a Data Science and Machine Learning student who enjoys turning messy real-world data into useful models and products. I work mainly with Python and SQL, and I’m especially interested in computer vision, predictive modelling, deep learning, and model deployment.
 
-## 🛠️ Tech Stack
+I like understanding the problem behind the data, testing ideas honestly, and explaining results clearly. My current goal is to build reliable ML systems that are useful beyond a notebook—from data preparation and evaluation to an accessible deployed application.
 
-**Languages**
+## 🔭 What I’m building
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Computer vision:** image classification, transfer learning, MobileNetV2, model evaluation
+- **Machine learning:** feature engineering, validation, class imbalance, model improvement
+- **Deep learning:** CNNs, PyTorch, TensorFlow Lite, inference pipelines
+- **Applied AI:** Gradio applications, PDF reporting, feedback workflows, and deployment
+- **Data foundations:** Python, SQL, Pandas, NumPy, PostgreSQL, and clear visual storytelling
 
-**Libraries & ML**
+## 🚀 Featured projects
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8BBF?style=for-the-badge&logo=python&logoColor=white)
+### [SkinScanix — AI Skin Disease Detection System](https://github.com/Vishal123-tech/AI-Skin-Disease-Detection-System)
 
-**Databases**
+Computer-vision prototype using PyTorch, TensorFlow Lite, Gradio, and Render. It combines image-quality checks, disease classification, downloadable PDF reporting, and a conservative uncertainty-aware workflow.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Tech:** `Python` `PyTorch` `TensorFlow Lite` `Gradio` `OpenCV` `Render`
 
-**BI & Visualization**
+### [AI Impact on Jobs & Layoff Risk Analysis](https://github.com/Vishal123-tech/AI-Impact-on-Jobs-and-Layoff-Risk-Dataset)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+End-to-end data science project covering exploratory analysis, PostgreSQL queries, machine-learning outputs, and a Power BI dashboard focused on business-facing insights.
 
-**Tools & Platforms**
+**Tech:** `Python` `Pandas` `SQL` `PostgreSQL` `Power BI` `Machine Learning`
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### [Customer Segmentation & Value Analysis](https://github.com/Vishal123-tech/Customer-Segmentation-Value-Analysis)
 
-## 📊 GitHub Stats
+Customer analytics project using segmentation and value-based analysis to turn transactional data into practical business recommendations.
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `SQL` `Visualization`
+
+<div align="center">
+
+<a href="https://github.com/Vishal123-tech?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+
+</div>
+
+## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vishal123-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="GitHub statistics" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vishal123-tech&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,postgres,mysql,git,github,linux" alt="Technical skills" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vishal123-tech&theme=tokyonight&hide_border=true" height="160" alt="GitHub contribution streak" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827" alt="Render" />
 </p>
 
-> These cards are generated by a public service and can be rate-limited independently of your GitHub profile. For maximum reliability, deploy the stats generator yourself or generate static cards with GitHub Actions.
+## 📈 GitHub activity
 
-## 🏆 Certifications
+<div align="center">
 
-| Certificate | Issuer | Year |
-|------------|--------|------|
-| SQL — Advanced / Intermediate / Basic | HackerRank | 2026 |
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Vishal123-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vishal123-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal123-tech&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+
+</div>
+
+## 🎓 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---:|
 | Machine Learning for Data Science Projects | IBM SkillsBuild | 2026 |
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2026 |
+| SQL — Advanced / Intermediate / Basic | HackerRank | 2026 |
 | Data Classification | IBM SkillsBuild | 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | 2025 |
-| Google Analytics Certification | Google Skillshop | 2026 |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Vishal123-tech&label=Profile%20views&color=06b6d4&style=flat" alt="Profile views" />
+
+<br />
+
+<i>Always learning. Always testing. Always shipping better models.</i>
+
+</div>
